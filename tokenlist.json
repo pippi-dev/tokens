@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-04-30T23:32:20.529Z",
+  "timestamp": "2026-05-06T23:12:52.288Z",
   "version": {
     "major": 47,
-    "minor": 500,
+    "minor": 501,
     "patch": 1936
   },
   "tokens": [
@@ -3840,6 +3840,14 @@
       "decimals": 18,
       "chainId": 480,
       "logoURI": "https://cdn.oku.trade/logos/480/0x2416092f143378750bb29b79ed961ab195cceea5.png"
+    },
+    {
+      "address": "0x2ba918fec90Ca7AaC5753a2551593470815866e6",
+      "name": "Diamante",
+      "symbol": "DIAMANTE",
+      "decimals": 18,
+      "chainId": 480,
+      "logoURI": "https://cdn.oku.trade/logos/480/0x2ba918fec90ca7aac5753a2551593470815866e6.png"
     },
     {
       "address": "0x79A02482A880bCE3F13e09Da970dC34db4CD24d1",
