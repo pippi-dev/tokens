@@ -1,9 +1,9 @@
 {
   "name": "Oku Token List",
-  "timestamp": "2026-05-06T23:12:52.288Z",
+  "timestamp": "2026-05-07T01:30:22.853Z",
   "version": {
     "major": 47,
-    "minor": 501,
+    "minor": 502,
     "patch": 1936
   },
   "tokens": [
@@ -3824,6 +3824,14 @@
       "explorer": "https://worldscan.org/address/0x0458965C6A85b14E022C1920276197c972f0Fd2f",
       "chainId": 480,
       "logoURI": "https://cdn.oku.trade/logos/480/0x0458965c6a85b14e022c1920276197c972f0fd2f.png"
+    },
+    {
+      "address": "0x062EBfD678539a98bC7e90d54F8536B6355AF110",
+      "name": "Loco Token",
+      "symbol": "LOC",
+      "decimals": 18,
+      "chainId": 480,
+      "logoURI": "https://cdn.oku.trade/logos/480/0x062ebfd678539a98bc7e90d54f8536b6355af110.png"
     },
     {
       "address": "0x1C60ba0A0eD1019e8Eb035E6daF4155A5cE2380B",
